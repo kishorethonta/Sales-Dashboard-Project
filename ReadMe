@@ -1,0 +1,11 @@
+# Sales Dashboard Project (Excel)
+This project analyzes 200+ sales records using Excel.
+
+## Features
+- Pivot Tables for Region, Month, and Category
+- Interactive Charts (Bar, Line, Pie)
+- Summary Metrics: Total Sales, Profit, Top Product
+
+## Files
+- Sales_Data_Project.csv → Raw dataset
+- Sales_Dashboard_Project.xlsx → Final Excel dashboard
